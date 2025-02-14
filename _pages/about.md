@@ -17,11 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there, my name is Bingheng Li. Currently, I am a first-year Ph.D. student from Michigan State University, advised by professor Jiliang Tang. Previously, I received my bachelor degree from Yingcai Honor School at University of Electronic Science and Technology of China, advised by professor Zhao Kang. My research interest includes graph machine learning, optimization and large language models.
+Hi there, my name is Bingheng Li. Currently, I am a first-year Ph.D. student from Michigan State University, working with Prof. Jiliang Tang. 
+Before studying at Brown, I received my B. Eng. degree with honors in Computer Science at the University of Electronic Science and Technology of China (UESTC). My undergraduate research advisor is Prof. Zhao Kang. Previously, I have enriched my research experience as an intern at  Shenzhen Research Institute of Big Data and Baidu.
+
 # 📝 Publications 
 
 ## Preprints
-- [On the Benefits of Attribute-Driven Graph Domain Adaptation]([https://example.com](https://openreview.net/forum?id=t2TUw5nJsW)) **Ruiyi Fang^***, ** Bingheng Li^* **, zhao kang, Qiuhao Zeng, Ruizhi Pu, Nima Hosseini Dashtbayaz, Charles Ling, Boyu Wang
+- [On the Benefits of Attribute-Driven Graph Domain Adaptation]([https://example.com](https://openreview.net/forum?id=t2TUw5nJsW)) Haitao Mao\*, **Zhikai Chen\***, zhao kang, Qiuhao Zeng, Ruizhi Pu, Nima Hosseini Dashtbayaz, Charles Ling, Boyu Wang
 - [Graph Machine Learning in the Era of Large Language Models (LLMs)](https://example.com) Wenqi Fan, Shijie Wang, Jiani Huang, **Zhikai Chen**, Yu Song, Wenzhuo Tang, Haitao Mao, Hui Liu, Xiaorui Liu, Dawei Yin, Qing Li 2024
 - [Enhancing ID and Text Fusion via Alternative Training in Session-based Recommendation](https://example.com) Juanhui Li, Haoyu Han, **Zhikai Chen**, Harry Shomer, Wei Jin, Amin Javari, Jiliang Tang 2024
 
