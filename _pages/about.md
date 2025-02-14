@@ -17,14 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there, my name is Zhikai Chen. Currently, I am a third-year Ph.D. student from Michigan State University, supervised by Professor Jiliang Tang. Previously, I received both of my bachelor and master degrees from Shanghai Jiao Tong University.
-
-My research interest includes graph machine learning and large language models. Specifically, my current research is mainly about the development of **graph foundation model**.
-
+Hi there, my name is Bingheng Li. Currently, I am a first-year Ph.D. student from Michigan State University, advised by professor Jiliang Tang. Previously, I received my bachelor degree from Yingcai Honor School at University of Electronic Science and Technology of China, advised by professor Zhao Kang. My research interest includes graph machine learning, optimization and large language models.
 # 📝 Publications 
 
 ## Preprints
-- [Learning on Graphs with Large Language Models (LLMs): A Deep Dive into Model Robustness](https://example.com) Kai Guo, Zewen Liu, **Zhikai Chen**, Hongzhi Wen, Wei Jin, Jiliang Tang, Yi Chang
+- [On the Benefits of Attribute-Driven Graph Domain Adaptation]([https://example.com](https://openreview.net/forum?id=t2TUw5nJsW)) **Ruiyi Fang^***, ** Bingheng Li^* **, zhao kang, Qiuhao Zeng, Ruizhi Pu, Nima Hosseini Dashtbayaz, Charles Ling, Boyu Wang
 - [Graph Machine Learning in the Era of Large Language Models (LLMs)](https://example.com) Wenqi Fan, Shijie Wang, Jiani Huang, **Zhikai Chen**, Yu Song, Wenzhuo Tang, Haitao Mao, Hui Liu, Xiaorui Liu, Dawei Yin, Qing Li 2024
 - [Enhancing ID and Text Fusion via Alternative Training in Session-based Recommendation](https://example.com) Juanhui Li, Haoyu Han, **Zhikai Chen**, Harry Shomer, Wei Jin, Amin Javari, Jiliang Tang 2024
 
