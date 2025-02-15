@@ -17,8 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there, my name is Bingheng Li. Currently, I am a first-year Ph.D. student from Michigan State University, working with Prof. Jiliang Tang. 
-Before studying at Brown, I received my B. Eng. degree with honors in Computer Science at the University of Electronic Science and Technology of China (UESTC). My undergraduate research advisor is Prof. Zhao Kang. Previously, I have enriched my research experience as an intern at  Shenzhen Research Institute of Big Data and Baidu.
+Hi there, my name is Bingheng Li. Currently, I am a first-year Ph.D. student from Michigan State University (MSU), working with Prof. Jiliang Tang. Before studying at MSU, I received my B. Eng. degree with honors in Computer Science at the University of Electronic Science and Technology of China (UESTC). My undergraduate research advisor is Prof. Zhao Kang. Previously, I have enriched my research experience as an intern at  Shenzhen Research Institute of Big Data and Baidu.
+
+I’m always open to collaboration. If you want to work with me, please contact me without hesitation!
 
 # 📝 Selected Publications 
 
